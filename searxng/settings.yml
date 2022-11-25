@@ -1,3 +1,4 @@
+use_default_settings: true
 server:
   secret_key: "ultrasecretkey"  # change this when running yourself
   limiter: true
