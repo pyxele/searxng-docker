@@ -1,4 +1,7 @@
-use_default_settings: true
+use_default_settings:
+  engines:
+    keep_only:
+      - google
 server:
   secret_key: "ultrasecretkey"  # change this when running yourself
   limiter: true
